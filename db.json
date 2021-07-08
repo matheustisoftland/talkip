@@ -29,6 +29,27 @@
         "arquivo": "",
         "nfile": ""
       }
+    ],
+     "renac": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+     "renacr": [
+     {
+        "id": 1,
+        "numero": "",
+        "Mensagem": "",
+        "logo": "",
+        "banner": "",
+        "arquivo": "",
+        "nfile": ""
+      }
     ]
  
 }
